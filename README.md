@@ -1,5 +1,5 @@
 ## 키붕이 개발자
-<img src="https://github.com/user-attachments/assets/6d267fdf-fc8a-4fed-a3fa-7d14f85799dd"  width="600" height="300"/>
+<img src="https://github.com/user-attachments/assets/6d267fdf-fc8a-4fed-a3fa-7d14f85799dd"  width="600"/>
 
 
 ![image](https://github.com/user-attachments/assets/b34ae215-0d69-499a-9ff6-0834ef89a4d0)
