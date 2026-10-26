@@ -1,7 +1,5 @@
 ## ⌨️ KODEX · AI-Driven Engineer
 
-<img src="https://github.com/user-attachments/assets/6d267fdf-fc8a-4fed-a3fa-7d14f85799dd" width="300"/>
-
 ADE(AI-Driven Engineer)로서 소프트웨어 설계·개발·운영에 AI 에이전트의 작업 설계와 검증을 더합니다.
 2011년부터 업무 시스템과 데이터 서비스를 만들어 왔고, 지금은 이지아이 CTO로 제품과 AI의 실행 구조를 함께 설계합니다.
 
