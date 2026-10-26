@@ -1,9 +1,23 @@
 ## ⌨️ KODEX · AI-Driven Engineer
 
+<img src="https://github.com/user-attachments/assets/6d267fdf-fc8a-4fed-a3fa-7d14f85799dd" width="300"/>
+
 ADE(AI-Driven Engineer)로서 소프트웨어 설계·개발·운영에 AI 에이전트의 작업 설계와 검증을 더합니다.
 2011년부터 업무 시스템과 데이터 서비스를 만들어 왔고, 지금은 이지아이 CTO로 제품과 AI의 실행 구조를 함께 설계합니다.
 
 🌐 **포트폴리오** [ko-dex.com](https://ko-dex.com) · 📍 Busan · 📫 naraku010@gmail.com
+
+### 🚀 KODEX AI
+
+**ERP와 사내 문서를 대화로 조회하는 데스크톱 AI 비서 + 채널 서버**
+
+- 모델은 DB에 직접 붙지 않고, 로컬 MCP 도구가 채널 서버를 호출해 업무 데이터를 읽습니다
+- Claude Code / Codex CLI 구독, 또는 Anthropic / OpenAI API 키 중 골라서 연결
+- 채널 응답에 차트 · 상품 카드 · 엑셀 · HTML 리포트를 실어 대화 안에 바로 그립니다
+- 채널 규격 `egi.channel/v1`: manifest · API 키 · 사용자 계정 위임 · 도구 등록을 `channelkit`으로 표준화
+- 채널 서버는 Windows(설치 마법사 · NSSM 서비스) / Linux(단일 `.run` · systemd) 설치 파일로 배포. CI가 두 OS를 빌드하고 스모크 테스트
+
+`Tauri 2` `Rust` `Next.js 16` `React 19` `Node 사이드카` `MCP` `FastAPI` `PyInstaller` `GitHub Actions`
 
 ### 🔧 Projects
 
