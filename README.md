@@ -14,7 +14,7 @@ ADE(AI-Driven Engineer)로서 소프트웨어 설계·개발·운영에 AI 에�
 - 모델은 DB에 직접 붙지 않고, 로컬 MCP 도구가 채널 서버를 호출해 업무 데이터를 읽습니다
 - Claude Code / Codex CLI 구독, 또는 Anthropic / OpenAI API 키 중 골라서 연결
 - 채널 응답에 차트 · 상품 카드 · 엑셀 · HTML 리포트를 실어 대화 안에 바로 그립니다
-- 채널 규격 `egi.channel/v1`: manifest · API 키 · 사용자 계정 위임 · 도구 등록을 `channelkit`으로 표준화
+- 채널 규격 `kodex.channel/v1`: manifest · API 키 · 사용자 계정 위임 · 도구 등록을 `channelkit`으로 표준화
 - 채널 서버는 Windows(설치 마법사 · NSSM 서비스) / Linux(단일 `.run` · systemd) 설치 파일로 배포. CI가 두 OS를 빌드하고 스모크 테스트
 
 `Tauri 2` `Rust` `Next.js 16` `React 19` `Node 사이드카` `MCP` `FastAPI` `PyInstaller` `GitHub Actions`
